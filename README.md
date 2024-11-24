@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I'm Carl Jean
+- 🌱 I'm currently learning web development through the [The Odin Project](https://www.theodinproject.com/) curriculum.
+- 😄 Pronouns: he/him
